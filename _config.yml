@@ -1,3 +1,7 @@
 theme: jekyll-theme-architect
 title: BoYuanSubtitleGroup
 description: All for Bo Yuan!
+
+layout: page
+title: "FFMPEG MPV NOTES"
+permalink: /ffmpeg-mpv-notes
